@@ -1,0 +1,4 @@
+<pbx-systems>
+<pbx name='L1'   hostname='pbx1' port='5022' login='script'  password='pass'   connection_type='ssh' atdt='' />
+<pbx name='L2'   hostname='pbx2' port='5022' login='script'  password='pass'   connection_type='ssh' atdt='' />
+</pbx-systems>
